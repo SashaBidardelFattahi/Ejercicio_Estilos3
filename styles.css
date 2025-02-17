@@ -1,0 +1,24 @@
+del{
+    color:blue
+}
+ins{
+    color:green
+}
+.letras_grandes{
+    font-size: 200%; /* 150% del tamaño de fuente base */
+}
+.letras_mas_grandes{
+    font-size: 200%;
+}
+.letras_medianas{
+    font-size: 150%;
+}
+.letras_pequenias{
+    font-size: 75%
+}
+.bajar_letras{
+    vertical-align: -75%;
+}
+.subir_letras{
+    vertical-align: 75%;
+}
